@@ -1,0 +1,18 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Automation Project">
+    <listeners>
+        <listener class-name="utilities.Reporting"/>
+    </listeners>
+    <test name ="AutomationTest">
+        <parameter name="browser" value="chrome">
+            <classes>
+                <class name="testCases.TC_TestCasePlatform_001"/>
+                <class name="testCases.TC_TestCaseUseCases_002"/>
+
+            </classes>
+        </parameter>
+    </test>
+</suite>
