@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
-public class UseCasesBuildPayrollPlatform {
+public class UseCasesBuildPayrollPlatform{
     WebDriver driver;
     public static final Logger log = Logger.getLogger(UseCasesBuildPayrollPlatform.class.getName());
     SoftAssert softAssert = new SoftAssert();

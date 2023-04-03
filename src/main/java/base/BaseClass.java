@@ -10,6 +10,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
+import org.testng.asserts.SoftAssert;
 import utilities.ReadConfig;
 
 import java.io.File;
@@ -21,6 +22,7 @@ public class BaseClass {
     public static WebDriver driver;
     public static Logger logger = Logger.getLogger(BaseClass.class.getName());
     public Actions action;
+    public SoftAssert softAssert = new SoftAssert();
     public String baseDirectory = System.getProperty("user.dir");
 
     @Parameters("browser")

@@ -2,16 +2,13 @@ package testCases;
 
 import base.BaseClass;
 import org.openqa.selenium.JavascriptExecutor;
-import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.testng.asserts.SoftAssert;
 import pageObjectModel.platform.Platform;
 import pageObjectModel.platform.PlatformFeature;
 import pageObjectModel.platform.PlatformNetwork;
 import pageObjectModel.platform.PlatformRoadMap;
 
 public class TC_TestCasePlatform_001 extends BaseClass {
-    SoftAssert softAssert = new SoftAssert();
 
     Platform platform;
     PlatformFeature  platformFeature;

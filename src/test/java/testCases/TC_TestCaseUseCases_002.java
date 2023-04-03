@@ -3,7 +3,6 @@ package testCases;
 import base.BaseClass;
 import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.Test;
-import pageObjectModel.platform.PlatformRoadMap;
 import pageObjectModel.usecases.*;
 
 public class TC_TestCaseUseCases_002 extends BaseClass {
@@ -53,8 +52,8 @@ public class TC_TestCaseUseCases_002 extends BaseClass {
         useCasesCollectAndTransferPayments =new UseCasesCollectAndTransferPayments(driver);
         platformNavBarUseCases();
         useCasesCollectAndTransferPayments.clickOnCollectAndTransferPayments();
+        JavascriptExecutor jse= (JavascriptExecutor)driver;
+        jse.executeScript("window.scrollTo(0, 0)");//Scroll to Top of original window
     }
-
-
 }
 
