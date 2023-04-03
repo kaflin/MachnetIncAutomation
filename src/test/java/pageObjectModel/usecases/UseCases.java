@@ -5,9 +5,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.interactions.MoveTargetOutOfBoundsException;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.time.Duration;
 import java.util.Set;
 
 public class UseCases {
@@ -24,11 +27,15 @@ public class UseCases {
         PageFactory.initElements(driver, this);
     }
 
-    public void hoverOnUseCases() throws InterruptedException {
+    public void hoverOnUseCases(){
         log.info("Hovering on UseCases");
         Actions actions=new Actions(driver);
-        actions.moveToElement(useCases).perform();
-        Thread.sleep(5000);
+        try {
+            actions.moveToElement(useCases).build().perform();
+            new WebDriverWait(driver, Duration.ofSeconds(10));
+        }catch (MoveTargetOutOfBoundsException e){
+            e.printStackTrace();
+        }
     }
 
 

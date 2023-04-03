@@ -22,13 +22,10 @@ public class UseCasesBuildPayrollPlatform {
         PageFactory.initElements(driver, this);
     }
     UseCasesBuildRemittanceApp useCasesBuildRemittanceApp;
-    UseCases useCases;
 
     public void clickOnBuildPayrollPlatform() throws InterruptedException {
         log.info("Clicking on UseCases's Build Payroll Platform");
         useCasesBuildRemittanceApp=new UseCasesBuildRemittanceApp(driver);
-        useCases =new UseCases(driver);
-        useCases.hoverOnUseCases();
         buildPayRollPlatform.click();
         String actualTitle=driver.getTitle();
         softAssert.assertEquals(actualTitle, "Build Payroll Platform | Machnet California");

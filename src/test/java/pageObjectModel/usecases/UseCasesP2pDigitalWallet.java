@@ -21,13 +21,10 @@ public class UseCasesP2pDigitalWallet {
         PageFactory.initElements(driver, this);
     }
     UseCasesBuildRemittanceApp useCasesBuildRemittanceApp;
-    UseCases useCases;
 
     public void clickOnP2pDigitalWallet() throws InterruptedException {
         log.info("Clicking on UseCases's P2p Digital wallet");
         useCasesBuildRemittanceApp=new UseCasesBuildRemittanceApp(driver);
-        useCases =new UseCases(driver);
-        useCases.hoverOnUseCases();
         p2pDigitalWallet.click();
         String actualTitle=driver.getTitle();
         softAssert.assertEquals(actualTitle, "P2P Digital Wallet | Machnet California");

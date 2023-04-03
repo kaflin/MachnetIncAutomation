@@ -15,38 +15,43 @@ public class TC_TestCaseUseCases_002 extends BaseClass {
     UseCasesWalletForBussinessCustomer useCasesWalletForBussinessCustomer;
     UseCasesCollectAndTransferPayments useCasesCollectAndTransferPayments;
 
-    @Test(priority = 1)
-    public void platformNavBarUseCases() throws InterruptedException {
+
+    public void platformNavBarUseCases() {
         useCases=new UseCases(driver);
         useCases.hoverOnUseCases();
     }
 
-    @Test(priority = 2)
+    @Test(priority = 1)
     public void useCasesNavBarBuildRemittanceApp() throws InterruptedException {
         useCasesBuildRemittanceApp =new UseCasesBuildRemittanceApp(driver);
+        platformNavBarUseCases();
         useCasesBuildRemittanceApp.clickOnBuildRemittanceApp();
         useCasesBuildRemittanceApp.clickOnUseCasesRequestDemo();
         useCasesBuildRemittanceApp.clickOnUseCasesGetApiDocs();
 
     }
-    @Test(priority = 3)
+    @Test(priority = 2)
     public void useCasesNavBarP2pDigitalWallet() throws InterruptedException {
         useCasesP2pDigitalWallet=new UseCasesP2pDigitalWallet(driver);
+        platformNavBarUseCases();
         useCasesP2pDigitalWallet.clickOnP2pDigitalWallet();
     }
-    @Test(priority = 4)
+    @Test(priority = 3)
     public void useCasesNavBarBuildPayrollPlatform() throws InterruptedException {
         useCasesBuildPayrollPlatform=new UseCasesBuildPayrollPlatform(driver);
+        platformNavBarUseCases();
         useCasesBuildPayrollPlatform.clickOnBuildPayrollPlatform();
     }
-    @Test(priority = 5)
+    @Test(priority = 4)
     public void useCasesNavBarWalletForBussinessCustomer() throws InterruptedException {
         useCasesWalletForBussinessCustomer =new UseCasesWalletForBussinessCustomer(driver);
+        platformNavBarUseCases();
         useCasesWalletForBussinessCustomer.clickOnWalletForBussinessCustomer();
     }
-    @Test(priority = 6)
+    @Test(priority = 5)
     public void useCasesNavBarCollectAndTransferPayments() throws InterruptedException {
         useCasesCollectAndTransferPayments =new UseCasesCollectAndTransferPayments(driver);
+        platformNavBarUseCases();
         useCasesCollectAndTransferPayments.clickOnCollectAndTransferPayments();
     }
 

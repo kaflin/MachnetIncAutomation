@@ -22,13 +22,10 @@ public class UseCasesCollectAndTransferPayments {
         PageFactory.initElements(driver, this);
     }
     UseCasesBuildRemittanceApp useCasesBuildRemittanceApp;
-    UseCases useCases;
 
     public void clickOnCollectAndTransferPayments() throws InterruptedException {
         log.info("Clicking on UseCases's Collect And Transfer Payments");
         useCasesBuildRemittanceApp=new UseCasesBuildRemittanceApp(driver);
-        useCases =new UseCases(driver);
-        useCases.hoverOnUseCases();
         collectAndTransferPayments.click();
         String actualTitle=driver.getTitle();
         softAssert.assertEquals(actualTitle, "Collect and Transfer Payments | Machnet California");
