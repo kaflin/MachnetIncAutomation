@@ -13,6 +13,7 @@ public class TC_TestCaseHomePage_000 extends BaseClass {
     HomepageDesginedForDevelopers homepageDesginedForDevelopers;
     HomepagePlatformFeatures homepagePlatformFeatures;
     HomepageWhyMachnet homepageWhyMachnet;
+    HomepageLatestUpdates homepageLatestUpdates;
 
 
     @Test(priority = 1)
@@ -57,5 +58,10 @@ public class TC_TestCaseHomePage_000 extends BaseClass {
     public void homePageGetApiDocs() throws InterruptedException {
         homepageDesginedForDevelopers =new HomepageDesginedForDevelopers(driver);
         homepageDesginedForDevelopers.clickOnGetApiDocs();
+    }
+    @Test(priority = 8)
+    public void HomepageLatestUpdates() throws InterruptedException {
+        homepageLatestUpdates =new HomepageLatestUpdates(driver);
+        homepageLatestUpdates.subscribeToGetLatestUpdate();
     }
 }

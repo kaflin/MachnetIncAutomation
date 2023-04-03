@@ -29,7 +29,7 @@ public class HomepageDesginedForDevelopers {
         log.info("Clicking on Get Api Docs");
         Thread.sleep(5000);//Wait before scrolling down
         JavascriptExecutor jse= (JavascriptExecutor)driver;
-        jse.executeScript("window.scrollBy(0,450)");
+        jse.executeScript("window.scrollBy(0,650)");
         getApiDocs.click();
         // Get the handle of the current window
         String currentWindowHandle = driver.getWindowHandle();
@@ -50,7 +50,7 @@ public class HomepageDesginedForDevelopers {
 
         //Switch to previous window
         driver.switchTo().window(currentWindowHandle);
-        jse.executeScript("window.scrollTo(0, 0)");//Scroll to Top of original window
+        jse.executeScript("window.scrollBy(0, 400)");//Scroll to down of original window
         Thread.sleep(5000);
     }
 }
