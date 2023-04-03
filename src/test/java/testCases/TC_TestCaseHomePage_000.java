@@ -2,9 +2,7 @@ package testCases;
 
 import base.BaseClass;
 import org.testng.annotations.Test;
-import pageObjectModel.homepage.HomePage;
-import pageObjectModel.homepage.HomepageDesginedForDevelopers;
-import pageObjectModel.homepage.HomepageKeyClients;
+import pageObjectModel.homepage.*;
 import pageObjectModel.platform.Platform;
 import pageObjectModel.platform.PlatformFeature;
 
@@ -13,6 +11,8 @@ public class TC_TestCaseHomePage_000 extends BaseClass {
     HomePage homePage;
     HomepageKeyClients homepageKeyClients;
     HomepageDesginedForDevelopers homepageDesginedForDevelopers;
+    HomepagePlatformFeatures homepagePlatformFeatures;
+    HomepageWhyMachnet homepageWhyMachnet;
 
 
     @Test(priority = 1)
@@ -43,6 +43,17 @@ public class TC_TestCaseHomePage_000 extends BaseClass {
         homepageKeyClients.clickOnkeyClientsSlider();
     }
     @Test(priority = 5)
+    public void homePagePlatformFeature() throws InterruptedException {
+        homepagePlatformFeatures =new HomepagePlatformFeatures(driver);
+       homepagePlatformFeatures.moveToHomepagePlatformFeature();
+    }
+    @Test(priority = 6)
+    public void homePageWhyMachnet() throws InterruptedException {
+        homepageWhyMachnet = new HomepageWhyMachnet(driver);
+        homepageWhyMachnet.moveToWhyMachnet();
+    }
+
+    @Test(priority = 7)
     public void homePageGetApiDocs() throws InterruptedException {
         homepageDesginedForDevelopers =new HomepageDesginedForDevelopers(driver);
         homepageDesginedForDevelopers.clickOnGetApiDocs();

@@ -2,6 +2,7 @@ package pageObjectModel.contactus;
 
 import com.github.javafaker.Faker;
 import org.apache.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -87,9 +88,9 @@ public class ContactUs {
         selectIntended.selectByIndex(1);
 
         businessRequiremnets.sendKeys("Her name is Natalie Gamble. She lives in East Tammyborough. Her favorite color is Magenta. She works as a Metallurgist Her name is Natalie Gamble. She lives in East Tammyborough. Her favorite color is Magenta. She works as a Metallurgist");
-
+        JavascriptExecutor jse =(JavascriptExecutor)driver;
+        jse.executeScript("window.scrollBy(0,500)");
         Thread.sleep(40000);
-
         contactSalesButton.click();
         Thread.sleep(5000);
 

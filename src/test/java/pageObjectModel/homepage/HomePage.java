@@ -4,9 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
-import java.util.Set;
-
 public class HomePage {
     WebDriver driver;
     public static final Logger log = Logger.getLogger(HomePage.class.getName());
