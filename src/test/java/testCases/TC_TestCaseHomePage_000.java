@@ -14,6 +14,7 @@ public class TC_TestCaseHomePage_000 extends BaseClass {
     HomepagePlatformFeatures homepagePlatformFeatures;
     HomepageWhyMachnet homepageWhyMachnet;
     HomepageLatestUpdates homepageLatestUpdates;
+    HomepageFooter homepageFooter;
 
 
     @Test(priority = 1)
@@ -60,8 +61,13 @@ public class TC_TestCaseHomePage_000 extends BaseClass {
         homepageDesginedForDevelopers.clickOnGetApiDocs();
     }
     @Test(priority = 8)
-    public void HomepageLatestUpdates() throws InterruptedException {
+    public void homePageLatestUpdates() throws InterruptedException {
         homepageLatestUpdates =new HomepageLatestUpdates(driver);
         homepageLatestUpdates.subscribeToGetLatestUpdate();
+    }
+    @Test(priority = 9)
+    public void homePageFooter() throws InterruptedException {
+        homepageFooter=new HomepageFooter(driver);
+        homepageFooter.clickToFooterLogo();
     }
 }
