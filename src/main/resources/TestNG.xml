@@ -1,20 +1,37 @@
 <?xml version ="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-
-
-<suite name="Automation Project">
+<suite name="Automation Project" parallel="false" thread-count="3">
     <listeners>
         <listener class-name="utilities.Reporting"/>
     </listeners>
-    <test name ="AutomationTest">
+    <parameter name="baseURL" value="https://www.machnetinc.com/"/>
+    <test name="Run in Chrome Browser">
         <parameter name="browser" value="chrome">
             <classes>
                 <class name="testCases.TC_TestCaseHomePage_000"/>
-<!--                <class name="testCases.TC_TestCasePlatform_001"/>-->
-<!--                <class name="testCases.TC_TestCaseUseCases_002"/>-->
-<!--                <class name="testCases.TC_TestCaseContactUs_003"/>-->
-
-
+                <class name="testCases.TC_TestCasePlatform_001"/>
+                <class name="testCases.TC_TestCaseUseCases_002"/>
+                <class name="testCases.TC_TestCaseContactUs_003"/>
+            </classes>
+        </parameter>
+    </test>
+    <test name="Run in Firefox Browser">
+        <parameter name="browser" value="firefox">
+            <classes>
+                <class name="testCases.TC_TestCaseHomePage_000"/>
+                <class name="testCases.TC_TestCasePlatform_001"/>
+                <class name="testCases.TC_TestCaseUseCases_002"/>
+                <class name="testCases.TC_TestCaseContactUs_003"/>
+            </classes>
+        </parameter>
+    </test>
+    <test name="Run in IE Browser">
+        <parameter name="browser" value="ie">
+            <classes>
+                <class name="testCases.TC_TestCaseHomePage_000"/>
+                <class name="testCases.TC_TestCasePlatform_001"/>
+                <class name="testCases.TC_TestCaseUseCases_002"/>
+                <class name="testCases.TC_TestCaseContactUs_003"/>
             </classes>
         </parameter>
     </test>

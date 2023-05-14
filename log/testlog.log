@@ -1,0 +1,268 @@
+2023-04-30 16:55:55,037 - base.BaseClass -INFO - Title didn't matched
+2023-04-30 16:55:55,072 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-04-30 16:55:59,526 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-04-30 16:56:08,015 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-04-30 16:56:16,215 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-04-30 16:56:21,292 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-04-30 16:56:26,333 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-04-30 16:56:26,443 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-04-30 16:56:44,498 - base.BaseClass -INFO - Title didn't matched
+2023-04-30 16:56:44,523 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-04-30 16:56:48,143 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-04-30 16:56:56,652 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-04-30 16:57:12,218 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-04-30 16:57:32,353 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-04-30 16:57:47,588 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-04-30 16:58:29,864 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-04-30 16:58:47,532 - base.BaseClass -INFO - Opening machnetinc.com
+2023-04-30 16:58:55,393 - base.BaseClass -INFO - Title didn't matched
+2023-04-30 16:58:55,408 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-04-30 16:59:00,550 - pageObjectModel.platform.PlatformFeature -INFO - Clicking on Platform's Features
+2023-04-30 16:59:05,610 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-04-30 16:59:10,761 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on Platform's RoadMap
+2023-04-30 16:59:15,797 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-04-30 16:59:20,927 - pageObjectModel.platform.PlatformNetwork -INFO - Clicking on Platform's Network
+2023-04-30 16:59:29,158 - base.BaseClass -INFO - Opening machnetinc.com
+2023-04-30 16:59:35,663 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-04-30 16:59:35,824 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's BuildRemittanceApp
+2023-04-30 16:59:46,033 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-04-30 17:00:06,358 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-04-30 17:00:26,595 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-04-30 17:00:26,737 - pageObjectModel.usecases.UseCasesP2pDigitalWallet -INFO - Clicking on UseCases's P2p Digital wallet
+2023-04-30 17:00:29,222 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-04-30 17:00:49,418 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-04-30 17:01:14,850 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-04-30 17:01:14,994 - pageObjectModel.usecases.UseCasesBuildPayrollPlatform -INFO - Clicking on UseCases's Build Payroll Platform
+2023-04-30 17:01:17,951 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-04-30 17:01:38,149 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-04-30 17:02:03,399 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-04-30 17:02:03,548 - pageObjectModel.usecases.UseCasesWalletForBussinessCustomer -INFO - Clicking on UseCases's Wallet For BussinessCustomer
+2023-04-30 17:02:06,119 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-04-30 17:02:26,332 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-04-30 17:02:51,795 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-04-30 17:02:51,933 - pageObjectModel.usecases.UseCasesCollectAndTransferPayments -INFO - Clicking on UseCases's Collect And Transfer Payments
+2023-04-30 17:02:55,562 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-04-30 17:03:15,758 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-04-30 17:03:41,373 - base.BaseClass -INFO - Opening machnetinc.com
+2023-04-30 17:03:49,009 - pageObjectModel.contactus.ContactUs -INFO - Clicking on Contact Us page
+2023-04-30 17:03:56,096 - pageObjectModel.contactus.ContactUs -INFO - Entering Details On Contact Us Form
+2023-05-01 07:00:20,594 - base.BaseClass -INFO - Title didn't matched
+2023-05-01 07:00:20,623 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-01 07:00:23,729 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-01 07:00:31,468 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-05-01 07:00:39,101 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-01 07:00:59,276 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-05-01 07:01:14,564 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-05-01 07:01:56,842 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-05-01 07:02:13,850 - base.BaseClass -INFO - Opening machnetinc.com
+2023-05-01 07:02:19,466 - base.BaseClass -INFO - Title didn't matched
+2023-05-01 07:02:19,481 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-01 07:02:24,637 - pageObjectModel.platform.PlatformFeature -INFO - Clicking on Platform's Features
+2023-05-01 07:02:31,518 - pageObjectModel.platform.PlatformFeature -INFO - Clicking on featuresCollect
+2023-05-01 07:02:36,572 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-01 07:02:41,714 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on Platform's RoadMap
+2023-05-01 07:02:48,605 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on RoadMap Button
+2023-05-01 07:02:58,691 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on Announcements Button
+2023-05-01 07:03:13,789 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-01 07:03:18,932 - pageObjectModel.platform.PlatformNetwork -INFO - Clicking on Platform's Network
+2023-05-01 07:03:30,050 - base.BaseClass -INFO - Opening machnetinc.com
+2023-05-01 07:03:36,380 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-01 07:03:36,518 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's BuildRemittanceApp
+2023-05-01 07:03:45,395 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-01 07:04:05,606 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-01 07:04:25,878 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-01 07:04:26,013 - pageObjectModel.usecases.UseCasesP2pDigitalWallet -INFO - Clicking on UseCases's P2p Digital wallet
+2023-05-01 07:04:28,742 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-01 07:04:48,956 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-01 07:05:14,188 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-01 07:05:14,321 - pageObjectModel.usecases.UseCasesBuildPayrollPlatform -INFO - Clicking on UseCases's Build Payroll Platform
+2023-05-01 07:05:17,687 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-01 07:05:37,901 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-01 07:06:03,190 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-01 07:06:03,322 - pageObjectModel.usecases.UseCasesWalletForBussinessCustomer -INFO - Clicking on UseCases's Wallet For BussinessCustomer
+2023-05-01 07:06:05,953 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-01 07:06:26,174 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-01 07:06:51,443 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-01 07:06:51,584 - pageObjectModel.usecases.UseCasesCollectAndTransferPayments -INFO - Clicking on UseCases's Collect And Transfer Payments
+2023-05-01 07:06:54,456 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-01 07:07:14,645 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-01 07:07:40,078 - base.BaseClass -INFO - Opening machnetinc.com
+2023-05-01 07:07:45,433 - pageObjectModel.contactus.ContactUs -INFO - Clicking on Contact Us page
+2023-05-01 07:07:51,527 - pageObjectModel.contactus.ContactUs -INFO - Entering Details On Contact Us Form
+2023-05-04 19:20:18,153 - base.BaseClass -INFO - Title didn't matched
+2023-05-04 19:20:18,180 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-04 19:20:21,213 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-04 19:20:28,454 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-05-04 19:20:35,342 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-04 19:20:55,501 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-05-04 19:21:05,685 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-05-04 19:21:05,827 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-05-04 19:21:05,837 - base.BaseClass -INFO - Opening machnetinc.com
+2023-05-04 19:21:08,342 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-04 19:21:13,399 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-04 19:21:13,413 - base.BaseClass -INFO - Opening machnetinc.com
+2023-05-04 19:21:15,435 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-04 19:21:15,450 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-04 19:21:15,468 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-04 19:21:15,486 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-04 19:21:15,499 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-04 19:21:15,514 - base.BaseClass -INFO - Opening machnetinc.com
+2023-05-04 19:21:17,819 - pageObjectModel.contactus.ContactUs -INFO - Clicking on Contact Us page
+2023-05-14 19:04:09,531 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 19:04:09,561 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 19:04:16,146 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 19:19:03,369 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 19:19:03,410 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 19:19:07,994 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 19:19:30,155 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-05-14 19:19:39,399 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-14 19:19:59,574 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-05-14 19:20:14,833 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-05-14 19:20:57,119 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-05-14 19:25:38,641 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 19:25:38,664 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 19:25:42,575 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 19:25:42,591 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-14 20:20:59,020 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 20:20:59,054 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 20:21:02,406 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 20:21:11,396 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-05-14 20:22:44,177 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 20:22:44,240 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 20:22:47,060 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 20:22:54,361 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-05-14 20:23:01,908 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-14 20:23:22,297 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-05-14 20:23:37,538 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-05-14 20:24:19,945 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-05-14 20:54:15,119 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 20:54:15,130 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 20:54:15,136 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-14 20:54:20,154 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-05-14 20:54:25,167 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-05-14 20:54:25,198 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-05-14 20:54:25,210 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 20:54:25,211 - base.BaseClass -INFO - Launching Firefox browser..
+2023-05-14 20:54:25,211 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 20:54:28,180 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-14 20:56:01,587 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 20:56:01,611 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 20:56:04,599 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 20:56:11,418 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-05-14 20:56:18,725 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-14 20:56:38,885 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-05-14 20:56:54,092 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-05-14 20:57:36,343 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-05-14 20:57:36,631 - base.BaseClass -INFO - Clean up activity: Closed all browser instances..
+2023-05-14 20:57:36,634 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 20:57:36,634 - base.BaseClass -INFO - Launching google chrome browser..
+2023-05-14 20:57:36,635 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 20:57:43,455 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 20:57:43,459 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-14 20:57:48,617 - pageObjectModel.platform.PlatformFeature -INFO - Clicking on Platform's Features
+2023-05-14 20:58:53,681 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-14 20:58:58,827 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on Platform's RoadMap
+2023-05-14 20:59:06,813 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on RoadMap Button
+2023-05-14 20:59:16,905 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on Announcements Button
+2023-05-14 20:59:32,011 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-14 20:59:37,153 - pageObjectModel.platform.PlatformNetwork -INFO - Clicking on Platform's Network
+2023-05-14 21:00:37,438 - base.BaseClass -INFO - Clean up activity: Closed all browser instances..
+2023-05-14 21:00:37,440 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 21:00:37,440 - base.BaseClass -INFO - Launching google chrome browser..
+2023-05-14 21:00:37,441 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 21:00:50,375 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:00:50,532 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's BuildRemittanceApp
+2023-05-14 21:01:00,643 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:01:20,818 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:01:41,040 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:01:41,178 - pageObjectModel.usecases.UseCasesP2pDigitalWallet -INFO - Clicking on UseCases's P2p Digital wallet
+2023-05-14 21:01:53,137 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:02:13,309 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:02:38,490 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:02:38,644 - pageObjectModel.usecases.UseCasesBuildPayrollPlatform -INFO - Clicking on UseCases's Build Payroll Platform
+2023-05-14 21:02:41,757 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:03:01,905 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:03:27,099 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:03:27,235 - pageObjectModel.usecases.UseCasesWalletForBussinessCustomer -INFO - Clicking on UseCases's Wallet For BussinessCustomer
+2023-05-14 21:03:29,959 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:03:50,114 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:04:15,560 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:04:15,713 - pageObjectModel.usecases.UseCasesCollectAndTransferPayments -INFO - Clicking on UseCases's Collect And Transfer Payments
+2023-05-14 21:04:18,500 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:04:38,667 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:05:04,151 - base.BaseClass -INFO - Clean up activity: Closed all browser instances..
+2023-05-14 21:05:04,153 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 21:05:04,153 - base.BaseClass -INFO - Launching google chrome browser..
+2023-05-14 21:05:04,153 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 21:05:08,482 - pageObjectModel.contactus.ContactUs -INFO - Clicking on Contact Us page
+2023-05-14 21:05:14,524 - pageObjectModel.contactus.ContactUs -INFO - Entering Details On Contact Us Form
+2023-05-14 21:06:00,664 - base.BaseClass -INFO - Clean up activity: Closed all browser instances..
+2023-05-14 21:06:00,864 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 21:06:00,865 - base.BaseClass -INFO - Launching Firefox browser..
+2023-05-14 21:06:00,865 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 21:06:08,137 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 21:06:08,139 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 21:06:11,472 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 21:06:19,042 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-05-14 21:06:26,473 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-14 21:06:46,761 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-05-14 21:07:01,907 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-05-14 21:07:44,273 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-05-14 21:08:01,701 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 21:08:01,701 - base.BaseClass -INFO - Launching Firefox browser..
+2023-05-14 21:08:01,701 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 21:08:07,880 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 21:08:07,881 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-14 21:08:13,033 - pageObjectModel.platform.PlatformFeature -INFO - Clicking on Platform's Features
+2023-05-14 21:09:18,072 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-14 21:09:23,209 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on Platform's RoadMap
+2023-05-14 21:09:29,923 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on RoadMap Button
+2023-05-14 21:09:40,173 - pageObjectModel.platform.PlatformRoadMap -INFO - Clicking on Announcements Button
+2023-05-14 21:09:55,461 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-14 21:10:00,604 - pageObjectModel.platform.PlatformNetwork -INFO - Clicking on Platform's Network
+2023-05-14 21:11:01,067 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 21:11:01,068 - base.BaseClass -INFO - Launching Firefox browser..
+2023-05-14 21:11:01,068 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 21:11:09,977 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:11:10,118 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's BuildRemittanceApp
+2023-05-14 21:11:18,043 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:11:38,649 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:11:59,305 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:11:59,448 - pageObjectModel.usecases.UseCasesP2pDigitalWallet -INFO - Clicking on UseCases's P2p Digital wallet
+2023-05-14 21:12:01,226 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:12:21,940 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:12:47,750 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:12:47,907 - pageObjectModel.usecases.UseCasesBuildPayrollPlatform -INFO - Clicking on UseCases's Build Payroll Platform
+2023-05-14 21:12:49,539 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:13:10,152 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:13:35,976 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:13:36,132 - pageObjectModel.usecases.UseCasesWalletForBussinessCustomer -INFO - Clicking on UseCases's Wallet For BussinessCustomer
+2023-05-14 21:13:37,820 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:13:58,440 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:14:24,221 - pageObjectModel.usecases.UseCases -INFO - Hovering on UseCases
+2023-05-14 21:14:24,382 - pageObjectModel.usecases.UseCasesCollectAndTransferPayments -INFO - Clicking on UseCases's Collect And Transfer Payments
+2023-05-14 21:14:26,082 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  RequestDemo Button
+2023-05-14 21:14:46,689 - pageObjectModel.usecases.UseCasesBuildRemittanceApp -INFO - Clicking on UseCases's  API Docs Button
+2023-05-14 21:15:12,970 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 21:15:12,971 - base.BaseClass -INFO - Launching Firefox browser..
+2023-05-14 21:15:12,971 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 21:15:18,578 - pageObjectModel.contactus.ContactUs -INFO - Clicking on Contact Us page
+2023-05-14 21:15:24,638 - pageObjectModel.contactus.ContactUs -INFO - Entering Details On Contact Us Form
+2023-05-14 21:16:11,962 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 21:16:11,962 - base.BaseClass -INFO - Launching Firefox browser..
+2023-05-14 21:16:11,962 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 21:16:17,592 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 21:16:17,593 - pageObjectModel.homepage.HomePage -INFO - Clicking on Machnet logo
+2023-05-14 21:16:20,396 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Contact Sales button
+2023-05-14 21:16:27,570 - pageObjectModel.homepage.HomePage -INFO - Clicking on Homepage Explore More button
+2023-05-14 21:16:35,340 - pageObjectModel.homepage.HomepageKeyClients -INFO - Clicking on Key Clients Slider
+2023-05-14 21:16:55,638 - pageObjectModel.homepage.HomepageDesginedForDevelopers -INFO - Clicking on Get Api Docs
+2023-05-14 21:17:10,782 - pageObjectModel.homepage.HomepageLatestUpdates -INFO - Providing email to get latest update
+2023-05-14 21:17:52,952 - pageObjectModel.homepage.HomepageFooter -INFO - Clicking on Homepage's Footer Logo
+2023-05-14 21:17:53,751 - base.BaseClass -INFO - Initiate browser..
+2023-05-14 21:17:53,752 - base.BaseClass -INFO - Launching Firefox browser..
+2023-05-14 21:17:53,752 - base.BaseClass -INFO - Opening Machnetinc.com
+2023-05-14 21:18:00,025 - base.BaseClass -INFO - Title didn't matched
+2023-05-14 21:18:00,027 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
+2023-05-14 21:18:05,178 - pageObjectModel.platform.PlatformFeature -INFO - Clicking on Platform's Features
+2023-05-14 21:19:10,211 - pageObjectModel.platform.Platform -INFO - Hovering on Platform
