@@ -19,7 +19,7 @@ public class TC_TestCaseHomePage_000 extends BaseClass {
 
     @Test(priority = 1)
     public void verifyTitle() {
-        String expectedTitle = "Machnet | License, Banking and Payment Processing for Cross Border Payments";
+        String expectedTitle = "Machnet | Remittance and money transfer infrastructure";
         String actualTitle = driver.getTitle();
         if (actualTitle.equalsIgnoreCase(expectedTitle)) {
             logger.info("Title matched");

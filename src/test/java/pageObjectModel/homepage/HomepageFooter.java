@@ -30,7 +30,7 @@ public class HomepageFooter {
     public void scrollToFooter() throws InterruptedException {
         JavascriptExecutor jse =(JavascriptExecutor)driver;
         jse.executeScript("window.scrollBy(0,500)");
-        Thread.sleep(10000);
+        Thread.sleep(5000);
     }
     public void clickToFooterLogo() throws InterruptedException {
         log.info("Clicking on Homepage's Footer Logo");

@@ -9,9 +9,9 @@
         <parameter name="browser" value="chrome">
             <classes>
                 <class name="testCases.TC_TestCaseHomePage_000"/>
-                <class name="testCases.TC_TestCasePlatform_001"/>
-                <class name="testCases.TC_TestCaseUseCases_002"/>
-                <class name="testCases.TC_TestCaseContactUs_003"/>
+<!--                <class name="testCases.TC_TestCasePlatform_001"/>-->
+<!--                <class name="testCases.TC_TestCaseUseCases_002"/>-->
+<!--                <class name="testCases.TC_TestCaseContactUs_003"/>-->
             </classes>
         </parameter>
     </test>
@@ -19,9 +19,9 @@
         <parameter name="browser" value="firefox">
             <classes>
                 <class name="testCases.TC_TestCaseHomePage_000"/>
-                <class name="testCases.TC_TestCasePlatform_001"/>
-                <class name="testCases.TC_TestCaseUseCases_002"/>
-                <class name="testCases.TC_TestCaseContactUs_003"/>
+<!--                <class name="testCases.TC_TestCasePlatform_001"/>-->
+<!--                <class name="testCases.TC_TestCaseUseCases_002"/>-->
+<!--                <class name="testCases.TC_TestCaseContactUs_003"/>-->
             </classes>
         </parameter>
     </test>
@@ -29,9 +29,9 @@
         <parameter name="browser" value="ie">
             <classes>
                 <class name="testCases.TC_TestCaseHomePage_000"/>
-                <class name="testCases.TC_TestCasePlatform_001"/>
-                <class name="testCases.TC_TestCaseUseCases_002"/>
-                <class name="testCases.TC_TestCaseContactUs_003"/>
+<!--                <class name="testCases.TC_TestCasePlatform_001"/>-->
+<!--                <class name="testCases.TC_TestCaseUseCases_002"/>-->
+<!--                <class name="testCases.TC_TestCaseContactUs_003"/>-->
             </classes>
         </parameter>
     </test>

@@ -12,11 +12,9 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.asserts.SoftAssert;
 import utilities.ReadConfig;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
