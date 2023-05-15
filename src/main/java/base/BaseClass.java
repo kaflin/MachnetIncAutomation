@@ -20,11 +20,8 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public class BaseClass {
-    ReadConfig readConfig = new ReadConfig();
-    public String baseURL = readConfig.getApplicationURL();
     public static WebDriver driver;
     public static Logger logger = Logger.getLogger(BaseClass.class.getName());
-    public Actions action;
     public SoftAssert softAssert = new SoftAssert();
     public String baseDirectory = System.getProperty("user.dir");
 
@@ -79,10 +76,10 @@ public class BaseClass {
     @BeforeClass(alwaysRun = true)
     public void initializeBaseTest(String browser, String baseURL) {
         try {
-            logger.info("Initiate browser..");
-            setDriver(browser, baseURL);
             String log4jConfPath = baseDirectory + "/src/main/resources/config/log4j.properties";
             PropertyConfigurator.configure(log4jConfPath);
+            logger.info("Initiate browser..");
+            setDriver(browser, baseURL);
         } catch (Exception e) {
             System.out.println("Error:" + e.getStackTrace());
         }
